@@ -1,4 +1,4 @@
-@Library('jenkins-shared-library') _
+@Library('jenkins1-shared-library') _
 
 // Parameters must be declared before any pipeline logic executes
 properties([
